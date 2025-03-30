@@ -6,12 +6,19 @@ Scratch-проект
   <summary>Прев'ю зображення</summary><br>
 
   <a href="https://liutyiartur.github.io/scratch_heroes/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/prev.jpg" alt="prev" style="border-radius: 16px;">  
-  </a>    
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/prev-1.jpg" alt="prev-1" style="border-radius: 16px;">  
+  </a>
+  <br>
+
+  <a href="https://liutyiartur.github.io/scratch_heroes/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/prev-2.jpg" alt="prev-2" style="border-radius: 16px;">  
+  </a> 
+  <br>
+  
+  <a href="https://liutyiartur.github.io/scratch_heroes/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/prev-3.jpg" alt="prev-3" style="border-radius: 16px;">  
+  </a>     
 </details>
-<br>
-
-
 
 # «Герої нескореної України: від Хмельницького до Коцюбайла «Да Вінчі»» (з нагоди 430-річчя з часу народження Богдана Хмельницького, гетьмана України, творця Української держави)
 
