@@ -1,17 +1,24 @@
-# <a href="https://liutyiartur.github.io/scratch_heroes/index.html" target="_blank">Heroes</a>
+# <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">Heroes</a>
 Scratch-проект
 ### Пояснювальна записка до роботи учня 4 класу Комунального закладу «Чугуївський ліцей №2» Лютого Артура
 
 <details>
   <summary>Прев'ю зображення</summary><br>
 
-  <a href="https://liutyiartur.github.io/scratch_heroes/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/prev.jpg" alt="prev" style="border-radius: 16px;">  
-  </a>    
+  <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/refs/heads/main/files/prev-1.jpg" alt="prev-1" style="border-radius: 16px;">  
+  </a>
+  <br>
+
+  <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/refs/heads/main/files/prev-2.jpg" alt="prev-2" style="border-radius: 16px;">  
+  </a>
+  <br>
+
+  <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/refs/heads/main/files/prev-3.jpg" alt="prev-3" style="border-radius: 16px;">  
+  </a>     
 </details>
-<br>
-
-
 
 # «Герої нескореної України: від Хмельницького до Коцюбайла «Да Вінчі»» (з нагоди 430-річчя з часу народження Богдана Хмельницького, гетьмана України, творця Української держави)
 
@@ -41,10 +48,8 @@ Scratch-проект
  * "Альманах" – інтерактивний розділ з біографіями видатних українських постатей та описами ключових битв.
  * "Міні-ігри" – набір бойових сцен, що дозволяють користувачеві взяти участь у трьох історичних битвах за незалежність України.
 
-<br>
 
-<details>
-  <summary>Технічне виконання</summary><br>
+## Технічне виконання
 
 ### Графіка
 всі ілюстрації редаговані у графічному редакторі Scratch і конвертовані у векторну графіку для плавної анімації та оптимізації відтворення.
@@ -58,22 +63,15 @@ Scratch-проект
 ### Ігрова механіка
 користувач має можливість взаємодіяти за допомогою клавіш "стрілки", "пробіл" та миші. Реалізовано систему програшів та перемоги – при успішному завершенні битви з'являється кубок і повідомлення про перемогу.
 
-</details>
-<br>
 
-<details>
-  <summary>Анімаційні ефекти</summary><br>
-
+### Анімаційні ефекти
  * Команди повторення та обертання забезпечують плавні анімації.
  * Реалізовані ефекти зміни розміру об’єктів, затримки між командами, регулювання швидкості руху створюють динамічність гри.
  * Переміщення об’єктів на різні рівні шарів, зміна вигляду персонажів роблять гру більш реалістичною.
  * Аудіосупровід додає атмосферності та занурює у події.
 
-</details>
-<br>
 
-<details>
-  <summary>Джерела інформації та допдатки</summary><br>
+## Джерела інформації та допдатки
 
 ### Текстова інформація
  * <a href="https://dovidka.biz.ua/bogdan-hmelnitskiy-biografiya-skorocheno/" target="_blank">https://dovidka.biz.ua/bogdan-hmelnitskiy</a>
@@ -98,12 +96,9 @@ Scratch-проект
  * <a href="https://tut-cikavo.com/pro-ukrainu/vydatni-liudy/950-ivan-mazepa" target="_blank">https://tut-cikavo.com/ivan-mazepa</a>
 
 ### Аудіофайли
- * <a href="https://useraudio.net/search/%D0%BB%D0%B5%D1%81%D1%8F-%D1%83%D0%BA%D1%80%D0%B0-%D0%BD%D0%BA%D0%B0" target="_blank">https://useraudio.net/</a>
+ * <a href="https://z3.fm/song/26058224" target="_blank">https://z3.fm/</a>
 
 ### Доповнення
  * <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>
  * <a href="https://turbowarp.org/" target="_blank">TurboWarp</a>
  * <a href="https://forkphorus.github.io/" target="_blank">Forkphorus</a>
-<br>
-
-</details>
