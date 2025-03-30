@@ -6,17 +6,17 @@ Scratch-проект
   <summary>Прев'ю зображення</summary><br>
 
   <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/files/prev-1.jpg" alt="prev-1" style="border-radius: 16px;">  
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/refs/heads/main/files/prev-1.jpg" alt="prev-1" style="border-radius: 16px;">  
   </a>
   <br>
 
   <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/files/prev-2.jpg" alt="prev-2" style="border-radius: 16px;">  
-  </a> 
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/refs/heads/main/files/prev-2.jpg" alt="prev-2" style="border-radius: 16px;">  
+  </a>
   <br>
 
   <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/files/prev-3.jpg" alt="prev-3" style="border-radius: 16px;">  
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/refs/heads/main/files/prev-3.jpg" alt="prev-3" style="border-radius: 16px;">  
   </a>     
 </details>
 
