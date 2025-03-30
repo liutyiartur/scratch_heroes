@@ -1,22 +1,22 @@
-# <a href="https://liutyiartur.github.io/scratch_heroes/index.html" target="_blank">Heroes</a>
+# <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">Heroes</a>
 Scratch-проект
 ### Пояснювальна записка до роботи учня 4 класу Комунального закладу «Чугуївський ліцей №2» Лютого Артура
 
 <details>
   <summary>Прев'ю зображення</summary><br>
 
-  <a href="https://liutyiartur.github.io/scratch_heroes/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/prev-1.jpg" alt="prev-1" style="border-radius: 16px;">  
+  <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/files/prev-1.jpg" alt="prev-1" style="border-radius: 16px;">  
   </a>
   <br>
 
-  <a href="https://liutyiartur.github.io/scratch_heroes/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/prev-2.jpg" alt="prev-2" style="border-radius: 16px;">  
+  <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/files/prev-2.jpg" alt="prev-2" style="border-radius: 16px;">  
   </a> 
   <br>
-  
-  <a href="https://liutyiartur.github.io/scratch_heroes/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/prev-3.jpg" alt="prev-3" style="border-radius: 16px;">  
+
+  <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/files/prev-3.jpg" alt="prev-3" style="border-radius: 16px;">  
   </a>     
 </details>
 
