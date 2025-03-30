@@ -96,7 +96,7 @@ Scratch-проект
  * <a href="https://tut-cikavo.com/pro-ukrainu/vydatni-liudy/950-ivan-mazepa" target="_blank">https://tut-cikavo.com/ivan-mazepa</a>
 
 ### Аудіофайли
- * <a href="https://useraudio.net/search/%D0%BB%D0%B5%D1%81%D1%8F-%D1%83%D0%BA%D1%80%D0%B0-%D0%BD%D0%BA%D0%B0" target="_blank">https://useraudio.net/</a>
+ * <a href="https://z3.fm/song/26058224" target="_blank">https://z3.fm/</a>
 
 ### Доповнення
  * <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>
