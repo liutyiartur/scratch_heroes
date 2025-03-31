@@ -1,5 +1,10 @@
-# <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">Heroes</a>
+# <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">Запустити проєкт "Heroes" у браузері</a>
 Scratch-проєкт
+<br>
+
+<a href="https://github.com/liutyiartur/scratch_heroes" target="_blank">Посилання на репозиторій GitHub</a>
+
+
 ### Пояснювальна записка до роботи учня 4 класу Комунального закладу «Чугуївський ліцей №2» Лютого Артура
 
 <details>
