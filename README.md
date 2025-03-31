@@ -20,7 +20,7 @@ Scratch-проєкт
   </a>    
   
   <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">
-    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/refs/heads/main/files/prev-42.jpg" alt="prev-4" style="border-radius: 16px;">  
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/refs/heads/main/files/prev-4.jpg" alt="prev-4" style="border-radius: 16px;">  
   </a>
   <br> 
 </details>
