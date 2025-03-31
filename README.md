@@ -17,7 +17,12 @@ Scratch-проєкт
 
   <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">
     <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/refs/heads/main/files/prev-3.jpg" alt="prev-3" style="border-radius: 16px;">  
-  </a>     
+  </a>    
+  
+  <a href="https://liutyiartur.github.io/scratch_heroes/files/index.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/liutyiartur/scratch_heroes/refs/heads/main/files/prev-42.jpg" alt="prev-4" style="border-radius: 16px;">  
+  </a>
+  <br> 
 </details>
 
 # «Герої нескореної України: від Хмельницького до Коцюбайла «Да Вінчі»» (з нагоди 430-річчя з часу народження Богдана Хмельницького, гетьмана України, творця Української держави)
